@@ -1,4 +1,4 @@
-# PARA TER ACESSO Á O PROJETO COMPLETO BAIXE NO LINK : https://drive.google.com/file/d/1T3LWb0jVuHQR5I3WBymjAgsIjotz5JnX
+# PARA TER ACESSO AO PROJETO COMPLETO BAIXE NO LINK : https://drive.google.com/file/d/1T3LWb0jVuHQR5I3WBymjAgsIjotz5JnX
 # BarberPRO Website
 
 Este repositório contém o código-fonte para o site da barbearia "BarberPRO".
