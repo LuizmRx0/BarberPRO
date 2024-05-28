@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/login": "pages/login.js",
+  "/dashboard": "pages/dashboard.js",
+  "/haircuts": "pages/haircuts.js",
+  "/new": "pages/new.js",
+  "/haircuts/[id]": "pages/haircuts/[id].js",
+  "/planos": "pages/planos.js",
+  "/profile": "pages/profile.js"
+}
