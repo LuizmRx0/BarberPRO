@@ -1,39 +1,15 @@
-Descrição do Projeto
-Este repositório contém o código fonte e recursos relacionados ao desenvolvimento de um site para uma barbearia. O objetivo principal é criar uma plataforma online que permita aos clientes agendar serviços de corte e barba, bem como comprar produtos de barbearia de forma prática e conveniente.
+# PARA TER ACESSO Á O PROJETO COMPLETO BAIXE NO LINK : https://drive.google.com/file/d/1T3LWb0jVuHQR5I3WBymjAgsIjotz5JnX
+# BarberPRO Website
 
-Funcionalidades
-Agendamento de serviços de corte e barba
+Este repositório contém o código-fonte para o site da barbearia "BarberPRO".
 
-Sistema de e-commerce para venda de produtos de barbearia
+## Descrição
 
-Integração de meios de pagamento online
+O site da barbearia BarberPRO é uma plataforma online destinada a fornecer informações sobre os serviços oferecidos pela barbearia, seus horários de funcionamento, e permitir que os clientes agendem compromissos.
 
-Design responsivo para uma experiência consistente em diferentes dispositivos
+## Funcionalidades Principais
 
-Interação intuitiva e amigável para o usuário
-
-Tecnologias Utilizadas
-HTML5, CSS3, JavaScript
-
-Framework XYZ para o frontend
-
-Node.js para o backend
-
-Banco de dados XYZ
-
-Como Contribuir
-Faça um fork deste repositório
-
-Crie uma branch com a nova feature (git checkout -b feature/nova-feature)
-
-Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature')
-
-Faça push para a branch (git push origin feature/nova-feature)
-
-Crie um novo Pull Request
-
-Autor
-Seu Nome
-
-Licença
-Este projeto está licenciado sob a [Licença XYZ].
+- **Página Inicial:** Uma breve introdução à barbearia, destacando seus serviços e equipe.
+- **Serviços:** Descrição detalhada dos serviços oferecidos, incluindo cortes de cabelo, barba, tratamentos capilares, etc.
+- **Agendamento:** Formulário de agendamento online para os clientes marcarem compromissos.
+- **Contato:** Informações de contato da barbearia, como endereço, telefone e e-mail.
