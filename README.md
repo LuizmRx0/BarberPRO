@@ -15,10 +15,10 @@ O site da barbearia BarberPRO é uma plataforma online destinada a fornecer info
 - **Contato:** Informações de contato da barbearia, como endereço, telefone e e-mail.
 
 ## Tecnologias Utilizadas
-- **Node.js: Ambiente de execução JavaScript.
-- **Prisma: ORM para o PostgreSQL.
-- **TypeScript: Superset de JavaScript que adiciona tipagem estática.
-- **JSON: Formato de dados utilizado para configurações.
-- **Next.js: Framework React para renderização do lado do servidor.
-- **PostgreSQL: Banco de dados relacional.
-- **JWT: Protocolo de autenticação JSON Web Token.
+- **Node.js:** Ambiente de execução JavaScript.
+- **Prisma:** ORM para o PostgreSQL.
+- **TypeScript:** Superset de JavaScript que adiciona tipagem estática.
+- **JSON:** Formato de dados utilizado para configurações.
+- **Next.js:** Framework React para renderização do lado do servidor.
+- **PostgreSQL:** Banco de dados relacional.
+- **JWT:** Protocolo de autenticação JSON Web Token.
