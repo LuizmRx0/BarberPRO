@@ -1,20 +1,43 @@
-# PARA TER ACESSO AO PROJETO COMPLETO BAIXE NO LINK : https://drive.google.com/file/d/1T3LWb0jVuHQR5I3WBymjAgsIjotz5JnX
 # BarberPRO Website
 
-Este repositório contém o código-fonte para o site da barbearia "BarberPRO".
+Este repositório contém o código-fonte para o site da barbearia **"BarberPRO"**.
 
 ## Descrição
 
-O site da barbearia BarberPRO é uma plataforma online destinada a fornecer informações sobre os serviços oferecidos pela barbearia, seus horários de funcionamento, e permitir que os clientes agendem compromissos.
+O **BarberPRO System** é uma plataforma online projetada para barbearias realizarem o controle completo de suas operações. O sistema permite o cadastro de barbearias, gerenciamento de clientes, funcionários e agendamentos, além de funcionalidades exclusivas para edição e criação de modelos de cortes. 
+
+---
 
 ## Funcionalidades Principais
 
-- **Página Inicial:** Uma breve introdução à barbearia, destacando seus serviços e equipe.
-- **Serviços:** Descrição detalhada dos serviços oferecidos, incluindo cortes de cabelo, barba, tratamentos capilares, etc.
-- **Agendamento:** Formulário de agendamento online para os clientes marcarem compromissos.
-- **Contato:** Informações de contato da barbearia, como endereço, telefone e e-mail.
+- **Página Inicial:** 
+  Uma introdução à barbearia e suas funcionalidades principais.  
+  ![Página Inicial](img/Inicial.jpg)
+
+- **Cadastro de Barbearias:** 
+  Permite que o proprietário registre sua barbearia, configurando o sistema para suas necessidades.
+
+- **Cadastro de Funcionários:** 
+  Ferramenta para gerenciar os profissionais da barbearia.  
+  ![Cadastro de Funcionários](img/Cadastro.jpg)
+
+- **Gestão de Planos:** 
+  - Acesso a diferentes planos para liberação de funcionalidades:
+    - **Plano Básico:** Controle limitado de cortes e clientes.
+    - **Plano Premium:** Cadastros ilimitados de cortes e clientes, criação e edição de modelos de cortes, atualizações exclusivas.
+    ![Gestão de Planos](img/Planos.jpg)
+
+- **Agendamento de Clientes:** 
+  - Cadastro de clientes com horários específicos para atendimentos.  
+  ![Agendamentos](img/Agendamento.jpg)
+  
+
+- **Agenda Integrada:** 
+  Visualização e gerenciamento de horários agendados.
+  ![Agendamentos](img/Agendamento2.jpg)
 
 ## Tecnologias Utilizadas
+
 - **Node.js:** Ambiente de execução JavaScript.
 - **Prisma:** ORM para o PostgreSQL.
 - **TypeScript:** Superset de JavaScript que adiciona tipagem estática.
@@ -22,3 +45,10 @@ O site da barbearia BarberPRO é uma plataforma online destinada a fornecer info
 - **Next.js:** Framework React para renderização do lado do servidor.
 - **PostgreSQL:** Banco de dados relacional.
 - **JWT:** Protocolo de autenticação JSON Web Token.
+
+---
+
+## Como Acessar o Projeto
+
+Para ter acesso ao projeto completo, baixe-o através do link:  
+[Download do Projeto](https://drive.google.com/file/d/1T3LWb0jVuHQR5I3WBymjAgsIjotz5JnX)
