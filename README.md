@@ -17,11 +17,12 @@ O **BarberPRO System** é uma plataforma online projetada para barbearias realiz
 
 - **Cadastro de Barbearias:** 
   Permite que o proprietário registre sua barbearia, configurando o sistema para suas necessidades.
-
-- **Cadastro de Funcionários:** 
+  
+  - **Cadastro de Funcionarios:**
   Ferramenta para gerenciar os profissionais da barbearia.
    
   ![Cadastro de Funcionários](img/Cadastro.jpg)
+---
 
 - **Gestão de Planos:** 
   - Acesso a diferentes planos para liberação de funcionalidades:
@@ -29,7 +30,7 @@ O **BarberPRO System** é uma plataforma online projetada para barbearias realiz
     - **Plano Premium:** Cadastros ilimitados de cortes e clientes, criação e edição de modelos de cortes, atualizações exclusivas.
       
     ![Gestão de Planos](img/Planos2.jpg)
-
+---
 - **Agendamento de Clientes:** 
   - Cadastro de clientes com horários específicos para atendimentos.
   
@@ -40,7 +41,7 @@ O **BarberPRO System** é uma plataforma online projetada para barbearias realiz
   - Visualização e gerenciamento de horários agendados.
   
   ![Agendamentos](img/Agendamento2.jpg)
-
+---
 ## Tecnologias Utilizadas
 
 - **Node.js:** Ambiente de execução JavaScript.
